@@ -1,3 +1,7 @@
+<pre style="background:pink;">
+  https://github.com/LinkSoul-AI/Chinese-Llama-2-7b
+</pre>
+
 <h1 align="center">
   Llama2-Chinese
 </h1>
